@@ -1,2 +1,4 @@
-isto é meu primeiro teste com git (hoje).
-linha criada
+Isto é meu primeiro teste com git hoje.
+Stanislav Sgrowinsk
+Linha criada por Alex.
+

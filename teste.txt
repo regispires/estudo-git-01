@@ -1,2 +1,2 @@
-isto é meu primeiro teste com git (hoje).
+Isto é meu primeiro teste com git hoje.
 Stanislav Sgrowinsk

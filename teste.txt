@@ -1,4 +1,5 @@
-
-isto é meu primeiro teste com git (hoje).
 Linha do Anderson
+Isto é meu primeiro teste com git hoje.
+Stanislav Sgrowinsk
+Linha criada por Alex.
 
